@@ -1,0 +1,2 @@
+Szilágyi László
+A programom egy bejelentkező oldal először amibe terminalon keresztül lehet belépni. Belépés után pedig egy egyszerű számológép jelenik meg, amivel lehet összeadni, kivonni, szorozni és osztani.
